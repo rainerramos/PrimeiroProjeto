@@ -10,6 +10,11 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá, mundo!");
+
+            Console.WriteLine("A execução acabou. Tecle enter para finalizar...");
+            Console.ReadLine();
         }
     }
 }
+
