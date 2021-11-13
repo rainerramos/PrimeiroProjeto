@@ -7,7 +7,7 @@
     <ProjectGuid>{7B96F39B-4621-4121-86A7-5377E38A88B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_4_ConversoesEOutrosTiposNumericos</RootNamespace>
-    <AssemblyName>_4_ConversoesEOutrosTiposNumericos</AssemblyName>
+    <AssemblyName>4-ConversoesEOutrosTiposNumericos</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
