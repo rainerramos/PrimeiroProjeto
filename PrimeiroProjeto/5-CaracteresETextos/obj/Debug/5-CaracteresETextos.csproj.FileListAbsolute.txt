@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

@@ -5,7 +5,22 @@
       "ProjectGuid": "5fb65053-2b7e-4fbe-9ec7-d6b31a28c4ae",
       "DisplayName": "PrimeiroProjeto",
       "ColorIndex": 0
+    },
+    "82dfe0b0-6ff7-4ac0-b0b7-f031e85e00a2": {
+      "ProjectGuid": "82dfe0b0-6ff7-4ac0-b0b7-f031e85e00a2",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "27e6ed0a-7e08-46e2-ad12-cfbebf00d702": {
+      "ProjectGuid": "27e6ed0a-7e08-46e2-ad12-cfbebf00d702",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "7b96f39b-4621-4121-86a7-5377e38a88b9": {
+      "ProjectGuid": "7b96f39b-4621-4121-86a7-5377e38a88b9",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
