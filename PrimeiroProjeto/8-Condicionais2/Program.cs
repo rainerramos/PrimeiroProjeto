@@ -12,10 +12,12 @@ namespace _8_Condicionais2
         {
             Console.WriteLine("Executando projeto 8 - Condicionais2");
 
-            int idadeJoao = 16;
+            int idadeJoao = 18;
             int quantidadePessoas = 2;
 
-            if (idadeJoao >= 18 || quantidadePessoas >= 2)
+            bool acompanhado = quantidadePessoas >= 2;
+
+            if (idadeJoao >= 18 && acompanhado == true)
             {
                 Console.WriteLine("Pode entrar");
             }
