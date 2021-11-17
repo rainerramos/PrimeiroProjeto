@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.pdb

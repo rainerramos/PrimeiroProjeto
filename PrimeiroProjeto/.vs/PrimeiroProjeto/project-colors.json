@@ -25,7 +25,12 @@
       "ProjectGuid": "faf916d4-36fa-444f-bf7f-ea07126c25a7",
       "DisplayName": "5-CaracteresETextos",
       "ColorIndex": 4
+    },
+    "e6d1ef08-793d-49f7-8724-f8b2cc7309e3": {
+      "ProjectGuid": "e6d1ef08-793d-49f7-8724-f8b2cc7309e3",
+      "DisplayName": "6-AtribuiçõesDeVariaveis",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
