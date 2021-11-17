@@ -20,7 +20,12 @@
       "ProjectGuid": "7b96f39b-4621-4121-86a7-5377e38a88b9",
       "DisplayName": "4-ConversoesEOutrosTiposNumericos",
       "ColorIndex": 3
+    },
+    "faf916d4-36fa-444f-bf7f-ea07126c25a7": {
+      "ProjectGuid": "faf916d4-36fa-444f-bf7f-ea07126c25a7",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

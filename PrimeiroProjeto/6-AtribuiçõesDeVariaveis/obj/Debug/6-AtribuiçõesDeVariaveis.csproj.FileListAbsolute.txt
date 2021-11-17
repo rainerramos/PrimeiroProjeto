@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\bin\Debug\6-AtribuiçõesDeVariaveis.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\bin\Debug\6-AtribuiçõesDeVariaveis.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\bin\Debug\6-AtribuiçõesDeVariaveis.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.pdb

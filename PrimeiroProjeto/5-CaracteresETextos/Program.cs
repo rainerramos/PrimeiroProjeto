@@ -22,12 +22,8 @@ namespace _5_CaracteresETextos
             Console.WriteLine(primeiraLetra);
 
             string titulo = "Alura Cursos de tecnologia " + 2020;
-            string cursosProgramacao = @" - .NET
-                - Java
-                - Javascript";
-
-            Console.WriteLine(titulo);
-            Console.WriteLine(cursosProgramacao);
+             Console.WriteLine(titulo);
+           
 
             Console.ReadLine();
         }
