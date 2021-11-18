@@ -30,7 +30,17 @@
       "ProjectGuid": "e6d1ef08-793d-49f7-8724-f8b2cc7309e3",
       "DisplayName": "6-AtribuiçõesDeVariaveis",
       "ColorIndex": 5
+    },
+    "33cde1da-7990-4920-8415-8f7ccf3046c5": {
+      "ProjectGuid": "33cde1da-7990-4920-8415-8f7ccf3046c5",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 6
+    },
+    "e3198b38-2d6b-4b15-bf85-56772307f04a": {
+      "ProjectGuid": "e3198b38-2d6b-4b15-bf85-56772307f04a",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

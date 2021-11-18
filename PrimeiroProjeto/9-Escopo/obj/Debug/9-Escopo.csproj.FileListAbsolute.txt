@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\bin\Debug\9-Escopo.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\9-Escopo\obj\Debug\9-Escopo.pdb

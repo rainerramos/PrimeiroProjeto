@@ -4,26 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _8_Condicionais2
+namespace _9_Escopo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 8 - Condicionais2");
+            Console.WriteLine("Executando projeto 9 - Escopo");
 
             int idadeJoao = 18;
-            //int quantidadePessoas = 2;
-            //bool acompanhado = quantidadePessoas >= 2;
             bool acompanhado = true;
+            string mensagemAdicional;
+
+            if (acompanhado == true)
+            {
+                mensagemAdicional = "João está acompanhado";
+            }
+            else
+            {
+                mensagemAdicional = "João não está acompanhado";
+            }
 
             if (idadeJoao >= 18 && acompanhado == true)
             {
                 Console.WriteLine("Pode entrar");
+                Console.WriteLine(mensagemAdicional);
             }
             else
             {
-                Console.WriteLine("João não pode entrar");
+                Console.WriteLine("Não pode entrar");
             }
 
 
@@ -31,4 +40,3 @@ namespace _8_Condicionais2
         }
     }
 }
-
