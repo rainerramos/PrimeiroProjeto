@@ -19,13 +19,15 @@ namespace _9_Escopo
             if (acompanhado == true)
             {
                 mensagemAdicional = "João está acompanhado";
+                Console.WriteLine(mensagemAdicional);
             }
             else
             {
                 mensagemAdicional = "João não está acompanhado";
+                Console.WriteLine(mensagemAdicional);
             }
 
-            if (idadeJoao >= 18 && acompanhado == true)
+            if (idadeJoao >= 18 || acompanhado == true)
             {
                 Console.WriteLine("Pode entrar");
                 Console.WriteLine(mensagemAdicional);

@@ -40,7 +40,12 @@
       "ProjectGuid": "e3198b38-2d6b-4b15-bf85-56772307f04a",
       "DisplayName": "8-Condicionais2",
       "ColorIndex": 7
+    },
+    "b4b438bd-2653-4b44-ac95-1e59efa417ae": {
+      "ProjectGuid": "b4b438bd-2653-4b44-ac95-1e59efa417ae",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

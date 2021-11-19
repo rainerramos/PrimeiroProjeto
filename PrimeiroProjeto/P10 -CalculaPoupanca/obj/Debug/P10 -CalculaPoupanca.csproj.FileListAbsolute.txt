@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\bin\Debug\P10 -CalculaPoupanca.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\bin\Debug\P10 -CalculaPoupanca.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\bin\Debug\P10 -CalculaPoupanca.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\obj\Debug\P10 -CalculaPoupanca.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\obj\Debug\P10 -CalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\obj\Debug\P10 -CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\obj\Debug\P10 -CalculaPoupanca.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P10 -CalculaPoupanca\obj\Debug\P10 -CalculaPoupanca.pdb
