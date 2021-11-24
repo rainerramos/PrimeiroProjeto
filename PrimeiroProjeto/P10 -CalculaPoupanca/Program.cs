@@ -21,7 +21,7 @@ namespace P10__CalculaPoupanca
                 Console.WriteLine("Após " + contadorMes + " meses você terá R$" + valorInvestido);
 
                 //contadorMes = contadorMes + 1;
-                //contadorMes += 1;
+                //contadorMes += 1; (o += é importante quando a gente soma de 2 em 2, 3 em 3, etc...)
                 contadorMes++;
             }
 
