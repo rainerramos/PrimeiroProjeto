@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.pdb
