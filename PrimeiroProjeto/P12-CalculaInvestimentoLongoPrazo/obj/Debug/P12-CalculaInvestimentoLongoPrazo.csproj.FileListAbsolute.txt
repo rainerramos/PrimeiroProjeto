@@ -1,0 +1,8 @@
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe.config
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+C:\CSharp\src\PrimeiroProjeto\PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.pdb
